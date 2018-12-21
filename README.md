@@ -13,7 +13,7 @@ Start scrolling down the images keeping the console open until the images you wa
 Go to download_images_google folder and type the lines one by one from the file image_pull.js into the console 
 A file will be then downloaded named urls3.txt in your downloads folder which will have all the images urls upto which you have scrolled
 Then run gen_images.py to download all the images to the folder you specify to
-They way you run the command is as follows:-
+The way you run the command is as follows:-
 python gen_images.py --urls "<url>" --output "<output>"
 Once you have the images in the folder you need to make all the images of the same dimention
   
@@ -27,6 +27,6 @@ The number of channels remained the same
 python train.py can be used for running the model
 
 The following code has no prediction function as i feel its not going to be too accurate because of lack of computational power
-A lot of manual data cleaning will be needed to be done before training
+A lot of manual data cleaning was needed to be done before training
 
-It is although a very good method incase you dont have enough images for a model or if you dont get the dataset on kaggle!
+It is although a very good method incase you dont have enough images for a model or if you dont get the dataset on kaggle or somewhere else!
