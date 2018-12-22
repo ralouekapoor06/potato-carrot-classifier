@@ -30,3 +30,5 @@ The following code has no prediction function as i feel its not going to be too 
 A lot of manual data cleaning was needed to be done before training
 
 It is although a very good method incase you dont have enough images for a model or if you dont get the dataset on kaggle or somewhere else!
+
+[The data can be accessed over here](https://drive.google.com/drive/folders/1SaJAFZjWMzR8ucrFYTAqouNiQqKTUJQR?usp=sharing)
