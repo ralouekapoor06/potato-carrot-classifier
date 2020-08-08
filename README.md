@@ -1,4 +1,4 @@
-# potato_carrot_classifier
+# potato-carrot-classifier
 
 #OVERVIEW
 The above classifier was made with the intentions of working with google images as the input data to the classifier
